@@ -1,4 +1,4 @@
-# DistributionGo Classic 2.0.0
+# DistributionGo Classic 2.1.0
 
 [繁體中文](#繁體中文) · [简体中文](#简体中文) · [English](#english) · [日本語](#日本語) · [ไทย](#ไทย) · [Tiếng Việt](#tiếng-việt) · [Bahasa Indonesia](#bahasa-indonesia) · [한국어](#한국어) · [Español](#español)
 
